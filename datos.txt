@@ -1,0 +1,22 @@
+Cédula 123456
+Nombres Wilson Andrés Rodriguez
+Dirección Carrera 3 A bis Este #88 - 57 sur
+Data
+{
+        "latitude": 40.417438,
+        "longitude": -3.693363,
+        "city": "Madrid",
+        "description": "Paseo del Prado"
+}
+
+Cédula 234567
+Nombres Maria de los Santos 
+Dirección Carrera 5 Este #91 - 28 sur
+Data
+{
+        "latitude": 40.407015,
+        "longitude": -3.691163,
+        "city": "Madrid",
+        "description": "Estación de Atocha"
+}
+
